@@ -6,9 +6,12 @@
 
 .nav {
 
-    display: inline-block;
-    list-style: none;
+    display: flex;
+    width: 87%;
     margin: 10px 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
 }
 .menu{
     position: relative;
