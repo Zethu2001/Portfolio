@@ -1,0 +1,17 @@
+#header
+{ 
+    position: 
+    top: 0;
+    left: 0;
+    width: 80;
+    
+}
+nav{
+    display: flex
+    width: 90%;
+    margin: auto;
+    padding: 24px;
+    align-items: left;
+    justify-content: space-between;
+
+}
