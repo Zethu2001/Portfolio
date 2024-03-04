@@ -1,24 +1,37 @@
 *{
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family:'poppins', sans-serif;
+    box-sizing: border-box;
 }
 
-.nav {
+.header {
 
-    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
     width: 87%;
-    margin: 10px 20px;
-    padding: 20px;
+    padding: 20px 10%;
+    background: violet;
+    display: flex;
     align-items: center;
     justify-content: space-between;
+    z-index: 100;
 }
-.menu{
-    position: relative;
-    width: 80%;
-    height: 100vh;
+.logo {
+
+    font-size: 25px;
+    color: navy;
+    text-decoration: none;
+    font-weight: 600;
+    
 }
-.center{
-    margin-left: auto;
-    margin-top: auto;
+.navbar{
+    
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 35px;
+    
 }
