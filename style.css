@@ -50,10 +50,17 @@ color: blue;
      display: flex;
      align-items: center;
      padding: 0 10%;
-     color: black;
      background-color: transparent;
 }
 body{
     background: fixed;
     background: url ('image/port1.jpg');
+}
+.home-imgHover {
+    position: absolute;
+    top: 0;
+    right: 30px;
+    width: 500px;
+    height: 90%;
+    background: transparent;
 }
