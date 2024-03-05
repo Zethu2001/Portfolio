@@ -37,7 +37,8 @@
     transition: 3s;
     
 }
-.navbar a:hover {
+.navbar a:hover,
+.navbar a.active {
 color: blue;
 
 }
