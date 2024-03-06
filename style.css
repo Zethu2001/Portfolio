@@ -83,5 +83,6 @@ body{
     display: flex;
     height: 300px;
     width: 300px;
-    background-image: transparent;
+    background: transparent;
+    border-radius: 60%;
 }
