@@ -99,6 +99,7 @@ font-size: 20px;
 color: azure;
 text-decoration: none;
 margin: 20px 0;
+z-index: 1;
 }
 .home-icons a::after {
     content: "";
