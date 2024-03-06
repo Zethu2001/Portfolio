@@ -86,7 +86,7 @@ body{
     background: transparent;
     border-radius: 60%;
 }
-home-icons a {
+.home-icons a {
 display: flex;
 justify-content: center;
 align-items: center;
