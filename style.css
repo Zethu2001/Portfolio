@@ -79,3 +79,9 @@ body{
     font-weight: 600;
 
 }
+.home-photo{
+    display: flex;
+    height: 300px;
+    width: 300px;
+    
+}
