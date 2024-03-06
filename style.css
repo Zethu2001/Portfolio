@@ -44,7 +44,6 @@ color: blue;
 }
 .home{
      height: 100vh;
-     background: url ('image/home.jpg');
      background-size: cover;
      background-position: center;
      display: flex;
@@ -54,7 +53,7 @@ color: blue;
 }
 body{
     background: fixed;
-    background: url ('image/port1.jpg');
+    
 }
 .home-imgHover {
     position: absolute;
