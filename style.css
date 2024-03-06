@@ -56,11 +56,6 @@ body{
     background: fixed;
     
 }
-.home-content {
-     display: flex;
-     justify-content: center;
-     align-items: center;
-}
 .home-content h1{ 
     font-size:3.1rem;
     font-weight: 600;
