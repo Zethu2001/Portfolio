@@ -122,3 +122,16 @@ z-index: 1;
     padding: 70px 10% 0;
     background-color: teal;
 }
+.header2 {
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: coral;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+}
