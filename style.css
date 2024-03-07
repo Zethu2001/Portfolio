@@ -99,13 +99,13 @@ body{
     font-weight: 600;
 
 }
-/* .home-photo{
+.home-photo{
     display: flex;
     height: 500px;
     width: 500px;
-    background: black;
-    border-radius: 100%;
-} */
+    /* background: black; */
+    border-radius: 65%;
+}
 .home-icons a {
 position: relative;    
 display: flex;
