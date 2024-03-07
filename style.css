@@ -84,8 +84,8 @@ body{
     display: flex;
     height: 500px;
     width: 500px;
-    background: transparent;
-    border-radius: 90%;
+    background: black;
+    border-radius: 100%;
 }
 .home-icons a {
 position: relative;    
